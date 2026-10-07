@@ -1,5 +1,13 @@
 # NT72690_FUR7.1.1_OpenSourceSoftware
 
+## Identifiers
+|Item|Value
+|---|---
+|Chipset|NT72690
+|Release|FUR7.1.1
+|FW Versions|90.711.X.Y
+|Download Link|https://d2mi77xcznxniv.cloudfront.net/index.html?file=NT72690_FUR7.1.1.zip
+
 ## Environment
 Individual build components may list different versions of Ubuntu for compilation in their respective readme / build instruction files, however, all modules here in were compiled successfully on Ubuntu 24.04 (jammy).
 
@@ -19,4 +27,5 @@ cd NT72690_FUR7.1.1
 
 After running the above commands you can see the modules and a readme. For an easy and straightforward build follow the instructions in the readme file as-is. Each module also contains its own readme or build instruction file.
 
-Download source archive here: https://d2mi77xcznxniv.cloudfront.net/index.html?file=NT72690_FUR7.1.1.zip
+Download the source archive here: 
+https://d2mi77xcznxniv.cloudfront.net/index.html?file=NT72690_FUR7.1.1.zip
